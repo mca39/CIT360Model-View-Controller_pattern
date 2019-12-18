@@ -21,8 +21,6 @@ public class GUI extends JFrame{
 
     JPanel panel;
     JButton submitButton;
-    //EmployeeController controller;
-
 
     public GUI() {
 
